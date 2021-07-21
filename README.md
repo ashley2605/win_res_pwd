@@ -4,6 +4,10 @@ Amigos! This tool is just created for educational purpose. I wont be responsible
 ### Usage:
 ```
 git clone https://github.com/ashley2605/win_res_pwd
+
 cd win_res_pwd
+
+sudo chmod +x win_res.sh 
+
 sudo bash win_res.sh
 ```

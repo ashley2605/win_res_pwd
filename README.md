@@ -31,7 +31,9 @@ git clone https://github.com/ashley2605/win_res_pwd
 
 cd win_res_pwd
 
-sudo chmod +x win_res.sh 
+sudo chmod +x *
+
+sudo bash install.sh
 
 sudo bash win_res.sh
 

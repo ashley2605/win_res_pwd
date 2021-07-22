@@ -17,7 +17,7 @@ Some Skills :)
 ```
 
 
-### How TO:
+### Pre-Process:
 ```
 Boot Kali-Live on a USB/ FlashDrive 
 

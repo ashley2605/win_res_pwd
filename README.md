@@ -33,8 +33,8 @@ cd win_res_pwd
 
 sudo chmod +x *
 
-sudo bash install.sh
+sudo bash install.sh OR sudo ./install.sh
 
-sudo bash win_res.sh
+sudo bash win_res.sh OR sudo ./win_res.sh
 
 ```

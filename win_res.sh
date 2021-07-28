@@ -75,13 +75,17 @@ clear
 exit
 fi
 
+#Mounting All possible Storage devices txt graaphics
 echo Mounting Storage Devices | lolcat -a -d 50
+#Mounts all sda*
 sudo mount /dev/sda1 /mnt
 sudo mount /dev/sda2 /mnt
 sudo mount /dev/sda3 /mnt
+#Graphics like holly
 echo THE LIVE OS WILL SHUTDOWN AFTER COMPLETION | lolcat -a -d 50
 clear
 sudo chntpw -i /mnt/Windows/System32/config/SAM
 echo AMIGOS! NOW CHANGE YOUR BOOT MODE TO  HARD DRIVE* AND PAY ME RESPECT WHEN YOU GET IN :) | lolcat -a -d 100
 sudo umount /mnt
 sudo shutdown now
+#End

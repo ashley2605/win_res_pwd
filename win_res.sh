@@ -18,7 +18,7 @@ printf "\n ##   Version 		: 	1.0"
 
 printf "\n ##   Github 		: 	https://github.com/ashley2605 \n"
 
-printf "\n ## Don not modify the script! Instead get Your own :) \n\n"
+printf "\n ## Do not modify the script! Instead get Your own :) \n\n"
 
 printf "____________________________________________________________________\n\n"
 
